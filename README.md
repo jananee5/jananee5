@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @jananee5
-- 👀 I’m interested in learning new things...
-- 🌱 I’m currently learning Data Science...
-- 💞️ I’m looking to collaborate on projects suitable for beginners...
-- 📫 How to reach me jananee3092@gmail.com ...
-- 😄 Pronouns: She...
-- ⚡ Fun fact: "In my spare time, I love to express my creativity through drawing intricate pencil sketches and designing detailed mandala art, as well as crafting handmade organic soaps, which allows me to combine artistry with natural ingredients."...
+# 👋 Hi, I’m Janani V
 
-<!---
-jananee5/jananee5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MBA (Business Analytics, 3rd Semester, 2024–2026)  
+💻 Data Science Graduate – GUVI (IITM Incubated)  
+📊 Turning data into decisions | Building dashboards | Exploring business insights
+
+## 🔹 About Me
+- 🌱 Currently pursuing MBA with a focus on **Data Analytics & Business Intelligence**
+- 🧠 Skilled in **Python | SQL | Power BI | Excel | Streamlit | Machine Learning**
+- 💼 Founder of **Venusa**, an MSME registered handmade soap brand
+- 📈 Passionate about using data to drive business growth and strategy
+
+## 🔹 Featured Projects
+- 🪙 **SpendWise – Personal Finance Analyzer**  
+  *Python • Streamlit • Hugging Face • Power BI*  
+  → Dashboard for UPI/Transaction insights, spending patterns & budgeting
+
+- 🧼 **Venusa – Business Analytics Dashboard**  
+  *Power BI • Excel*  
+  → Analytics for a micro-business to optimize marketing and sales performance
+
+## 🔹 Certifications
+- 🎓 **Master Data Science Program** – **GUVI (IITM Incubated)**
+- 📊 **Microsoft Power BI – GUVI (in collaboration with HCL)**
+- 🧠 **Project Management & Leadership** – *Harvard Online (HarvardX)*  
+- 📘 **Google Data Analytics – Foundations: Data, Data Everywhere**  
+- 🧮 **Data Analytics using ChatGPT with Excel & Python – Coursera**
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/janani-v-6a9522294/)
+- [GitHub](https://github.com/jananee5)
+- [Kaggle](https://www.kaggle.com/jananiee)
+- [Instagram – @venusanaturals](https://www.instagram.com/venusanaturals)
+- [Email](mailto:jananee3092@gmail.com)
