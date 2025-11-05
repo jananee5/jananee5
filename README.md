@@ -15,9 +15,7 @@
   *Python • Streamlit • Hugging Face • Power BI*  
   → Dashboard for UPI/Transaction insights, spending patterns & budgeting
 
-- 🧼 **Venusa – Business Analytics Dashboard**  
-  *Power BI • Excel*  
-  → Analytics for a micro-business to optimize marketing and sales performance
+
 
 ## 🔹 Certifications
 - 🎓 **Master Data Science Program** – **GUVI (IITM Incubated)**
